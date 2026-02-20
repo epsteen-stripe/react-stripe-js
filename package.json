@@ -60,7 +60,8 @@
     "dist",
     "src",
     "checkout.js",
-    "checkout.d.ts"
+    "checkout.d.ts",
+    "AGENTS.md"
   ],
   "jest": {
     "preset": "ts-jest/presets/js-with-ts",
