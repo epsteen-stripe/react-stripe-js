@@ -60,7 +60,9 @@
     "dist",
     "src",
     "checkout.js",
-    "checkout.d.ts"
+    "checkout.d.ts",
+    "AGENTS.md",
+    "llms.txt"
   ],
   "jest": {
     "preset": "ts-jest/presets/js-with-ts",
